@@ -38,6 +38,22 @@
                         </p>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="/cast/create" class="nav-link">
+                        <i class="nav-icon fas fa-database"></i>
+                        <p>
+                            Tambah Cast
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/cast" class="nav-link">
+                        <i class="nav-icon fas fa-database"></i>
+                        <p>
+                            Table Cast
+                        </p>
+                    </a>
+                </li>
                 <!-- Add more links as needed -->
             </ul>
         </nav>
